@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    //Remember some basics.
+    //Remember some basics please.
 
     int age;
 
